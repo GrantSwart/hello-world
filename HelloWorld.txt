@@ -2,8 +2,6 @@
 Changed this file
 Changed this file again (2)
 Changed this file again (3)
-<<<<<<< HEAD
-Changed this file again (5)
-=======
 Changed this file again (4)
->>>>>>> ad53182f7f1bdcd8d9295f7b540a069503ecfdf5
+Changed this file again (5)
+
